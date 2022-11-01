@@ -58,8 +58,21 @@ namespace pratice1101
             MessageBox.Show($"{lamba1}");
         }
 
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("hi");
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("nihao");
+        }
+
         //一百個按鈕
 
+
+
+        //測試用用看
 
 
 
