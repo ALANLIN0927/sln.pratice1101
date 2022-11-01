@@ -58,6 +58,8 @@ namespace pratice1101
             MessageBox.Show($"{lamba1}");
         }
 
+        //¤@¦Ê­Ó«ö¶s
+
 
 
 
